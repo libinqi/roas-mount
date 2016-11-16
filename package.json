@@ -1,0 +1,21 @@
+{
+  "name": "roas-mount",
+  "version": "1.0.0",
+  "description": "roas.js mount",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm publish .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libinqi/roas-mount.git"
+  },
+  "author": "libinqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/libinqi/roas-mount/issues"
+  },
+  "homepage": "https://github.com/libinqi/roas-mount#readme",
+  "dependencies": {}
+}
