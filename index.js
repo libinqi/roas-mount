@@ -19,7 +19,7 @@ function mount(dir) {
             var m = require(dir + '/' + file);
             if (m) {
                 requires[fileName] = m;
-                console.log('mount completed:' + dir + '/' + file);
+                //console.log('mount completed:' + dir + '/' + file);
             }
         });
 
